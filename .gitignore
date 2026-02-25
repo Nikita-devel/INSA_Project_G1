@@ -1,0 +1,33 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+build/
+dist/
+
+# --- IDE & Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# --- OS generated files ---
+Thumbs.db
+db.lock
+desktop.ini
+
+# --- Database & Logs ---
+*.log
+*.sqlite3
+
+# --- Virtual Machines (since you work with VMs) ---
+*.vbox
+*.vbox-prev
+*.vmdk
+*.vdi
