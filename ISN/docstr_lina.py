@@ -7,9 +7,7 @@ Created on Wed Feb 25 12:53:22 2026
 """
 
 
-#FONCTION: AFFICHAGE DU CALENDRIER
-
-def affichage_calendrier(calendrier, date_demandéee, année, mois): 
+def affichage_calendrier(calendrier, date_demandéee, année, mois): #Lina
     """
     Affiche les évènements du calendrier selon le filtre choisi
 
@@ -212,6 +210,14 @@ def demander_retour():
     Met le programme en pause jusqu’a ce que l’utilisateur appuie sur une touche du clavier
     
     """
+
+
+
+
+
+
+
+
 
 
 
