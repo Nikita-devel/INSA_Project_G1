@@ -1,106 +1,139 @@
-def affichage_calendrier(calendrier, date_demandéee, année, mois): #Lina
+# ==========================================================
+# TD17 - CALENDRIER INTELLIGENT
+# ==========================================================
+
+# --- GESTION DES DONNÉES & UTILS ---
+
+def ma_fonction_2(liste, colonne): 
     """
-    Affiche les évènements du calendrier selon le filtre choisi
+    Trie le calendrier par ordre chronologique (année, mois, jour, puis heure), 
+    car le fichier CSV n'est pas ordonné.
 
     Paramètres :
-        - calendrier (liste) : calendrier csv 
-        - date_demandée (liste d'entriers int) : date au format [année, mois, jour, heure, minute] qui va permettre l'affichage de la semaine demandee
-        - annéee (int) : l'année pour afficher par annee 
-        - mois (int) : le mois pour un affichage mensuel 
+        - liste (list) : Liste d'événements brute extraite du fichier csv.
+        - colonne (int) : Indice de la position de l'année dans chaque sous-liste.
+
+    Return :
+        - (list) : La liste triée prête pour un affichage séquentiel.
+    """
+    pass
+
+def quelle_semaine(jour): 
+    """
+    Calcule la date du lundi correspondant à la semaine du jour saisi par l'utilisateur.
+    
+    Parameters :
+        - jour (list) : Date au format [année, mois, jour, heure, minute].
+    
+    Return :
+        - (list) : Date du lundi à 00:00 [année, mois, jour, 0, 0].
+    """
+    pass
+
+# --- TÂCHE 1 : AFFICHAGE DE LA SEMAINE ---
+
+def affichage_calendrier(calendrier, date_pivot): 
+    """
+    Affiche les événements de la semaine correspondant à la date choisie.
+    Utilise le formatage f"{valeur:02d}" pour l'affichage (ex: 08h05).
+
+    Paramètres :
+        - calendrier (list) : Liste d'événements triée.
+        - date_pivot (list) : Date de référence pour déterminer la semaine à afficher.
             
     Sortie :
-        - le calendrier 
+        - None (Affiche le planning du lundi au vendredi).
+    """
+    pass
 
+def naviguer_semaine(commande, date_pivot): 
     """
-def affichage_pense_bete(calendrier): #donné sur Moodle
+    Permet de reculer ou d'avancer d'une semaine (touches 'p' ou 's').
+    
+    Parameters :
+        - commande (str) : 's' pour suivante, 'p' pour précédente.
+        - date_pivot (list) : La date actuelle affichée.
+        
+    Return :
+        - (list) : La nouvelle date décalée de 7 jours.
     """
-    Affiche la date actuelle ainsi que la prochaine évaluation à venir.
+    pass
+
+# --- TÂCHE 2 : RAPPEL PROCHAINE ÉVALUATION ---
+
+def trouver_IE(calendrier, date_actuelle): 
+    """
+    Recherche la prochaine évaluation (type 'Evaluation') après aujourd'hui.
+   
+    Parameters :
+        - calendrier (list) : Liste d'événements triée.
+        - date_actuelle (list) : Date système [année, mois, jour, heure, minute].
+    
+    Return :
+        - (list) : L'événement de l'évaluation la plus proche, ou None.
+    """
+    pass
+
+def affichage_pense_bete(calendrier): 
+    """
+    Affiche la date actuelle et les détails de la prochaine évaluation.
 
     Paramètres :
-        - calendrier (liste) : calendrier csv 
-
-    Sortie :
-        - affichage du calendrier
-
+        - calendrier (list) : Liste complète des événements.
     """
-    
-def retour_debut(retour): #Elora
+    pass
+
+# --- BONUS : VACANCES & STATISTIQUES ---
+
+def affichage_liste_evaluations(calendrier): 
     """
-    Permet à l'utilisateur de retourner sur l'interface du début (afin de redemander l'affichage du calendrier d'une autre semaine) si retour est True
+    Affiche toutes les évaluations du semestre et détecte les vacances (écart > 7 jours).
 
-    Parameters:
-    - retour : bool. True si l'utilisateur veut revenir au début
-    
-    Return:
-    None
-    
+    Paramètres :
+        - calendrier (list) : Liste de tous les événements triée.
     """
+    pass
 
-def quitter(quit=False): #Elora
+def calcul_statistiques_matiere(calendrier): 
     """
-    Permet à l'utilisateur de quitter le calendrier si quit est True
-   
-    Parameters:
-    - quit: bool. True si l'utilisateur veut sortir du calendrier
-    
-    Return:
-    None 
-    
+    Calcule le volume horaire par type (CM, TD, TP, Éval) et par matière.
+
+    Paramètres :
+        - calendrier (list) : Liste complète des événements.
     """
+    pass
 
-def trouver_IE(): #Elora 
-    """
-    Renvoie la date de la prochaine IE à partir de la date d'aujourd'hui
-   
-    Parameters:
-    - None 
-    
-    Return
-    - date_IE: date. Date de la plus proche IE. Renvoie None si c'est la fin de l'année. 
-    
-    """
+# --- CONTRÔLE INTERFACE ---
 
-def quelle_semaine(jour): #Elora 
-    """
-    Trouve la semaine associée au jour donné par l'utilisateur
-    
-    Parameters:
-    - jour: date. Jour saisi par l'utilisateur 
-    
-    Return
-    
-    - semaine: int. Numero de la semaine 
-    
-    """
-    
-def ma_fonction_2(liste, colonne):  #Eloise 
-   """
-    Trie une liste de données par date (année puis jour) et par heure croissante.
+def retour_debut(retour): 
+    """ Permet de revenir au menu principal si retour est True. """
+    pass
 
-    Paramètres
-    ----------
-    liste : list
-        Liste contenant les éléments à trier du tableau excel. Chaque élément de la liste
-        est lui-même une liste contenant:
-        - une date (année et jour)
-        - une heure
-        - éventuellement d'autres informations.
+def quitter(quit=False): 
+    """ Arrête le programme si quit est True. """
+    pass
 
-    colonne : int
-        Indice correspondant à la position de la date dans chaque sous-liste.
-        avec l'heure en indice (liste+1)
+# ==========================================================
+# ALGORITHME PRINCIPAL (MAIN PROGRAM)
+# ==========================================================
 
-    
-    return
-    ----------------
-    list
-        La liste triée par année, puis par jour, puis par heure croissante.
-"""
+# 1. Initialisation
+# import calendrier as cal
+# data = cal.creer_calendrier("calendrier.csv")
+# calendrier_trie = ma_fonction_2(data, 0)
+# date_pivot = aujourdhui()
 
+# 2. Affichage initial (Tâche 2)
+# affichage_pense_bete(calendrier_trie)
 
-
-
-
-
-
-
+# 3. Boucle de navigation (Tâche 1)
+# tant que non quitter():
+#     lundi = quelle_semaine(date_pivot)
+#     affichage_calendrier(calendrier_trie, lundi)
+#     
+#     commande = saisir("Appuyez sur 's' (suivante), 'p' (précédente) ou 'q' (quitter) : ")
+#     
+#     si commande == 'q':
+#         quitter(True)
+#     sinon:
+#         date_pivot = naviguer_semaine(commande, date_pivot)
