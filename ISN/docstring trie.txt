@@ -1,0 +1,24 @@
+def ma_fonction_2(liste, colonne):
+    """
+    Trie une liste de données par date (année puis jour) et par heure croissante.
+
+    Paramètres
+    ----------
+    liste : list
+        Liste contenant les éléments à trier du tableau excel. Chaque élément de la liste
+        est lui-même une liste contenant:
+        - une date (année et jour)
+        - une heure
+        - éventuellement d'autres informations.
+
+    colonne : int
+        Indice correspondant à la position de la date dans chaque sous-liste.
+        avec l'heure en indice (liste+1)
+
+    
+    return
+    ----------------
+    list
+        La liste triée par année, puis par jour, puis par heure croissante.
+
+   
