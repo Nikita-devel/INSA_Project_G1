@@ -12,7 +12,18 @@ def affichage_calendrier(calendrier, date_demandéee, année, mois): #Lina
         - le calendrier 
 
     """
+def affichage_pense_bete(calendrier): #donné sur Moodle
+    """
+    Affiche la date actuelle ainsi que la prochaine évaluation à venir.
 
+    Paramètres :
+        - calendrier (liste) : calendrier csv 
+
+    Sortie :
+        - affichage du calendrier
+
+    """
+    
 def retour_debut(retour): #Elora
     """
     Permet à l'utilisateur de retourner sur l'interface du début (afin de redemander l'affichage du calendrier d'une autre semaine) si retour est True
