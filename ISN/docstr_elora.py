@@ -1,25 +1,35 @@
-def quitter(quit=False):
-    """ Permet à l'utilisateur de quitter le calendrier si quit est True
-    Parameters:
-    - quit: bool. True si l'utilisateur veut sortir du calendrier
-    Return
-    None 
-    """
+def quitter(quit): 
+    """ Arrête le programme si quit est True. """
+    q = False
+    if quit == True:
+        q = True
+    return q 
 
-def trouver_IE():
+#jeu de test quitter():
+quit = True
+print(quitter(quit))
+quit2 = False
+print(quitter(quit2))
+
+def trouver_IE(calendrier):
     """ Renvoie la date de la prochaine IE à partir de la date d'aujourd'hui
     Parameters:
-    - None 
+    - calendrier: cal. Calendrier de l'utilisateur
     Return
     - date_IE: date. Date de la plus proche IE. Renvoie None si c'est la fin de l'année. 
-    """
+   """
+    date debut = aujourdhui()
+    date fin = #dernier evenement du calendrier
+    evenements = liste_evenement(calendrier, date debut, date fin)
+    i = 0
+    IE = False
+    date_IE = 0
+    while i < len(evenements) and not IE :
+        if "IE" in evenements[i] :
+            IE = True
+            date_IE = extraire_date_event(evenement[i])
+        i += 1
+        
+    
+    
 
-def quelle_semaine(jour):
-    """ Trouve la semaine associée au jour donné par l'utilisateur
-     Parameters:
-    - jour: date. Jour saisi par l'utilisateur 
-    Return
-    - semaine: date. Date du premier lundi de la semaine
-    - semaine: int. Numero de la semaine 
-    ### je sais pas ce que ça renvoie donc dans le doute, j'ai mis les 2
-    """
