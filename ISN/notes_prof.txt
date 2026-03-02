@@ -8,3 +8,7 @@ Quitter dois être demandé au choix des options.
 Pas besoin de return pour la liste triée. 
 Attention, on ne peut pas retourner 'none', car n'est pas une liste
 
+FONCTION POUR CONCATENER LES CHAINES DE CARACTERE
+METTRE DES 0 DEVANT LES CHIFFRES POUR EN AVOIR 2
+METTRE EN INT OU STR
+TRIER EN COMPARANT LES VALEURS DES CHIFFRES
