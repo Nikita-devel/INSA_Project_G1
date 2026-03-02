@@ -1,0 +1,558 @@
+Année;Mois;Jour;H_deb;H_fin;Matiere;Type;Intervenant;Salle
+2025;9;23;6.0;8.0;EPS;TD;COSTES Laurent;
+2025;10;14;9.0;10.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;5;11;14.0;16.0;Mathématiques;TD;ES SAI Azeddine;B09
+2025;11;21;7.0;8.0;Soutien;;;
+2025;10;21;8.0;9.0;Physique;CM;CHANTRENNE Patrice;Amphi Hamilton
+2025;10;15;6.0;7.0;Chimie;CM;DA SILVA Pedro;Amphi Turing
+2026;3;18;7.0;10.0;Chimie;TP;YUAN Sheng;
+2025;12;12;13.0;14.5;Physique;TD;POULOS Markos;C11
+2026;2;10;15.0;16.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2026;3;19;7.0;9.0;Chimie;TD;YUAN Sheng;C02
+2025;12;18;9.0;11.0;CSS;TD;LANHER Simon;E1.5
+2026;2;24;13.5;15.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2025;10;1;12.0;14.0;Physique;TP;POULOS Markos;LP1.5
+2026;4;20;14.0;16.0;Mathématiques;TD;ES SAI Azeddine;B09
+2025;9;17;7.0;8.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2025;10;9;8.0;10.0;CSS;TD;LANHER Simon;E1.5
+2026;3;30;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;2;24;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2025;9;30;15.0;16.0;Soutien;;;
+2026;5;19;8.0;9.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2026;4;20;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;6;2;15.0;16.0;Soutien;;;
+2026;3;27;15.0;16.5;OMNI;EV;;
+2026;6;10;12.0;16.0;Physique;TP;VERDIER Jacques;
+2026;4;22;9.0;10.0;ISN;CM;MERVEILLE Odyssee;Amphi Godet
+2026;3;25;7.0;10.0;Chimie;TP;YUAN Sheng;
+2026;1;8;9.0;11.0;CSS;TD;LANHER Simon;E1.5
+2025;10;14;12.0;14.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2026;5;21;8.0;10.0;Connaissance de l'entreprise;TD;LEFEVRE Anne;E1.5
+2026;2;2;7.0;9.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2026;5;26;15.0;16.0;Soutien;;;
+2026;3;11;15.0;17.0;ETRE;TD;ZANOTA Marie-Line;C04
+2025;10;21;6.0;8.0;EPS;TD;COSTES Laurent;
+2026;5;4;14.0;16.0;Mathématiques;TD;ES SAI Azeddine;B09
+2025;9;22;14.0;15.5;Mathématiques;TD;HEIBIG Arnaud;B11
+2026;2;23;13.0;15.0;Physique;TD;LAGARDE Alain;B09
+2026;2;3;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2026;4;28;8.0;9.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2026;6;3;14.0;16.0;ETRE;TD;ZANOTA Marie-Line;C04
+2025;12;3;15.0;16.0;Physique;TD;POULOS Markos;G2.1
+2026;2;2;14.0;15.0;Physique;TD;LAGARDE Alain;B09
+2025;12;8;15.0;16.5;Mathématiques;TD;HEIBIG Arnaud;B11
+2025;10;20;12.0;13.0;SOL;TD;VEILLET Francois;D3 Netscape
+2026;2;13;7.0;8.0;Soutien;;;
+2026;4;29;12.0;14.0;Physique;TP;VERDIER Jacques;C05
+2026;3;10;13.5;15.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;6;1;6.0;8.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;11;20;7.0;9.0;Chimie;TD;YUAN Sheng;G2.1
+2026;5;27;9.0;10.0;ISN;TD;DELANOY Johanna;C03
+2026;1;13;16.0;17.0;Soutien;;;
+2026;3;25;15.0;17.0;ETRE;TD;ZANOTA Marie-Line;C04
+2026;5;20;12.0;14.0;Physique;TP;VERDIER Jacques;
+2025;10;13;6.0;8.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2025;10;10;6.0;7.0;Soutien;;;
+2025;10;16;8.0;10.0;CSS;TD;LANHER Simon;E1.5
+2025;11;4;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Hamilton
+2025;11;5;13.0;15.0;Physique;TP;POULOS Markos;LP1.2
+2025;10;6;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2025;11;21;9.0;11.0;Anglais;TD;MYOT Francois;E2.2
+2026;5;4;6.0;8.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;10;22;12.0;14.0;Physique;TP;POULOS Markos;LP1.2
+2026;5;5;12.0;14.0;OMNI;CM;RISLER Emmanuel;Amphi Coriolis
+2025;10;23;6.0;8.0;Chimie;TD;YUAN Sheng;G2.1
+2025;9;16;13.0;14.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2026;3;17;7.0;9.0;EPS;TD;COSTES Laurent;
+2026;2;2;15.0;17.0;Mathématiques;TD;ES SAI Azeddine;B09
+2026;4;28;15.0;16.0;Soutien;;;
+2025;12;10;9.0;11.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2026;3;30;14.0;16.0;Mathématiques;TD;ES SAI Azeddine;B09
+2025;10;7;9.0;10.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;1;7;9.0;11.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2026;3;11;13.0;15.0;Physique;TP;VERDIER Jacques;LP1.1
+2025;9;17;12.0;14.0;Physique;TD;POULOS Markos;LP1.6
+2026;3;11;7.0;9.5;Chimie;TP;YUAN Sheng;
+2025;10;7;12.0;14.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2026;4;28;9.0;10.0;Chimie;CM;DA SILVA Pedro;Amphi Coriolis
+2025;10;22;6.0;7.0;Chimie;CM;DA SILVA Pedro;Amphi Turing
+2026;2;25;15.0;17.0;ETRE;TD;ZANOTA Marie-Line;C04
+2026;3;3;7.0;9.0;EPS;TD;COSTES Laurent;
+2026;4;27;14.0;16.0;Mathématiques;TD;ES SAI Azeddine;B09
+2025;9;29;14.0;15.5;Mathématiques;TD;HEIBIG Arnaud;B11
+2026;3;13;7.0;8.0;Soutien;;;
+2025;10;20;6.0;8.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2026;5;11;6.0;8.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;10;14;8.0;9.0;Physique;CM;CHANTRENNE Patrice;Amphi Hamilton
+2025;10;3;7.0;8.0;OMNI;CM;RISLER Emmanuel;Amphi Vannier
+2026;2;11;7.0;10.0;Chimie;TP;YUAN Sheng;
+2025;9;19;12.0;13.5;Physique;TD;POULOS Markos;LP1.2
+2025;11;5;7.0;8.0;Chimie;CM;DA SILVA Pedro;Amphi Turing
+2025;12;5;13.0;14.5;Physique;TD;POULOS Markos;C11
+2026;2;3;15.0;16.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2026;3;10;16.0;17.0;Soutien;;;
+2025;10;10;12.0;13.5;Physique;TD;POULOS Markos;C11
+2026;5;12;9.0;10.0;Chimie;CM;DA SILVA Pedro;Amphi Coriolis
+2026;3;24;13.5;15.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;3;13;15.0;16.0;Chimie;EV;;
+2026;4;24;14.0;15.0;ETRE;EV;;
+2025;10;2;8.0;10.0;CSS;TD;LANHER Simon;E1.5
+2026;4;3;14.0;15.0;ISN;EV;;
+2026;3;16;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;3;31;6.0;8.0;EPS;TD;COSTES Laurent;
+2025;11;18;7.0;9.0;EPS;TD;COSTES Laurent;
+2025;11;26;7.0;8.0;Chimie;CM;DA SILVA Pedro;Amphi Turing
+2026;1;5;7.0;9.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2026;3;27;7.0;8.0;Soutien;;;
+2026;6;19;7.0;10.0;Chimie;EV;;
+2026;1;6;10.0;11.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;4;27;6.0;8.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;9;29;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2025;11;26;15.0;16.0;Physique;TD;POULOS Markos;G2.1
+2026;3;23;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2025;9;30;12.0;14.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2026;2;11;10.0;11.0;ISN;TD;DELANOY Johanna;C03
+2026;3;2;14.0;15.0;Physique;TD;LAGARDE Alain;B09
+2026;5;5;6.0;7.0;Soutien;;;
+2025;12;2;16.0;17.0;Soutien;;;
+2026;2;25;7.0;10.0;Chimie;TP;YUAN Sheng;
+2025;9;17;8.0;10.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2026;2;23;7.0;9.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2026;4;28;6.0;8.0;EPS;TD;COSTES Laurent;
+2025;11;3;13.0;14.0;SOL;TD;VEILLET Francois;D3 Netscape
+2025;10;10;7.0;8.0;OMNI;CM;RISLER Emmanuel;Amphi Vannier
+2025;10;13;14.0;15.5;Mathématiques;TD;HEIBIG Arnaud;B11
+2026;5;20;14.0;16.0;ETRE;TD;ZANOTA Marie-Line;C04
+2025;11;28;13.0;14.5;Physique;TD;POULOS Markos;C11
+2026;1;23;8.0;11.0;CSS;EV;;
+2025;11;26;13.0;15.0;Physique;TP;POULOS Markos;LP1.2
+2025;11;12;13.0;15.0;Physique;TP;POULOS Markos;LP1.2
+2026;2;23;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2025;12;19;13.0;14.5;Physique;TD;POULOS Markos;C11
+2026;1;28;8.0;11.0;Mathématiques;EV;;
+2026;4;21;12.5;14.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2025;10;16;6.0;8.0;Chimie;TD;YUAN Sheng;G2.1
+2026;5;19;12.5;14.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2025;11;18;10.0;11.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;6;5;6.0;7.0;Soutien;;;
+2026;2;4;10.0;11.0;ISN;CM;RIVANO Herve;Amphi Coriolis
+2026;3;10;7.0;9.0;EPS;TD;COSTES Laurent;
+2026;5;12;12.5;14.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2025;10;17;6.0;7.0;Soutien;;;
+2025;12;18;7.0;9.0;Chimie;TD;YUAN Sheng;G2.1
+2025;12;17;15.0;16.0;Physique;TD;POULOS Markos;G2.1
+2025;9;22;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;1;9;7.0;8.0;Soutien;;;
+2025;10;3;6.0;7.0;Soutien;;;
+2025;12;17;13.0;15.0;Physique;TP;POULOS Markos;LP1.5
+2026;6;3;12.0;14.0;Physique;TD;LAGARDE Alain;C05
+2026;2;12;9.0;11.0;Connaissance de l'entreprise;TD;LEFEVRE Anne;E1.5
+2025;9;24;7.0;8.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2026;3;5;9.0;11.0;Connaissance de l'entreprise;TD;LEFEVRE Anne;E1.5
+2026;2;10;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2026;3;18;15.0;17.0;ETRE;TD;ZANOTA Marie-Line;C04
+2025;11;14;9.0;11.0;Anglais;TD;MYOT Francois;E2.2
+2025;11;7;15.0;16.5;Physique;EV;;
+2025;12;15;7.0;9.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2026;1;21;8.25;8.75;SOL;TD;VEILLET Francois;D4 Telnet
+2025;11;25;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Hamilton
+2025;11;24;15.0;16.5;Mathématiques;TD;HEIBIG Arnaud;B11
+2026;2;9;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;3;23;7.0;9.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;9;22;6.0;8.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2026;1;16;7.0;8.0;Soutien;;;
+2026;1;12;14.0;15.5;Mathématiques;TD;HEIBIG Arnaud;C10
+2025;11;19;7.0;8.0;Chimie;CM;DA SILVA Pedro;Amphi Turing
+2025;12;15;14.0;15.5;Mathématiques;TD;HEIBIG Arnaud;C05
+2025;10;9;6.0;8.0;Chimie;TD;YUAN Sheng;G2.1
+2026;1;6;16.0;17.0;Soutien;;;
+2026;4;29;14.0;16.0;ETRE;TD;ZANOTA Marie-Line;C04
+2025;12;12;15.0;17.0;Chimie;EV;;
+2025;10;17;12.0;13.5;Physique;TD;POULOS Markos;C11
+2025;10;24;7.0;8.0;OMNI;CM;RISLER Emmanuel;Amphi Vannier
+2026;4;21;6.0;8.0;EPS;TD;COSTES Laurent;
+2026;2;4;7.0;10.0;Chimie;TP;YUAN Sheng;
+2026;3;6;7.0;8.0;Soutien;;;
+2026;4;20;12.0;13.0;Physique;CM;CHANTRENNE Patrice;Amphi Turing
+2025;11;4;7.0;9.0;EPS;TD;COSTES Laurent;
+2025;11;28;9.0;11.0;Anglais;TD;MYOT Francois;E2.2
+2026;2;26;9.0;11.0;Connaissance de l'entreprise;TD;LEFEVRE Anne;E1.5
+2026;3;9;7.0;9.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;10;1;14.0;15.0;Physique;TD;POULOS Markos;G2.1
+2026;2;9;13.0;15.0;Physique;TD;LAGARDE Alain;B09
+2026;5;7;6.0;8.0;Chimie;TD;YUAN Sheng;C02
+2025;9;25;8.0;10.0;CSS;TD;LANHER Simon;E1.5
+2026;4;28;12.5;14.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2025;10;24;14.0;15.5;Mathématiques;EV;;
+2025;12;2;7.0;9.0;EPS;TD;COSTES Laurent;
+2025;10;15;12.0;14.0;Physique;TP;POULOS Markos;LP1.2
+2025;12;10;7.0;8.0;Chimie;CM;DA SILVA Pedro;Amphi Turing
+2026;3;9;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;1;29;9.0;11.0;Conception;EV;;
+2026;3;2;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;3;17;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2026;4;21;14.0;15.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2026;5;26;12.5;14.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2025;12;3;13.0;15.0;Physique;TP;POULOS Markos;LP1.2
+2026;5;6;12.0;14.0;Physique;TP;VERDIER Jacques;LP1.5
+2025;12;16;16.0;17.0;Soutien;;;
+2026;5;12;6.0;8.0;EPS;TD;COSTES Laurent;
+2025;11;10;14.0;15.0;ISN;TD;CHEUTET Vincent;B11
+2025;10;17;8.0;10.0;Anglais;TD;MYOT Francois;E2.2
+2025;11;4;13.0;15.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2026;6;16;8.0;10.0;Conception;EV;;
+2026;2;5;9.0;11.0;OMNI;TD;MORTHOMAS Julien;B07
+2025;10;13;13.0;14.0;ISN;CM;MERVEILLE Odyssee;Amphi Curie
+2025;11;25;7.0;9.0;EPS;TD;COSTES Laurent;
+2025;10;6;13.0;14.5;Mathématiques;TD;HEIBIG Arnaud;C10
+2026;5;13;14.0;16.0;Chimie;EV;;
+2026;4;21;15.0;16.0;Soutien;;;
+2026;3;3;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2026;3;31;12.5;14.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;4;27;12.0;14.0;Physique;TD;LAGARDE Alain;B09
+2025;12;12;7.0;8.0;Soutien;;;
+2025;11;17;13.5;14.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2026;2;4;13.0;15.0;Physique;TD;LAGARDE Alain;C05
+2025;12;16;7.0;9.0;EPS;TD;COSTES Laurent;
+2025;12;4;9.0;11.0;CSS;TD;LANHER Simon;E1.5
+2025;11;18;13.0;15.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2025;10;3;8.0;10.0;Anglais;TD;MYOT Francois;E2.2
+2025;9;29;6.0;8.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2025;10;20;13.0;14.5;Mathématiques;TD;HEIBIG Arnaud;B02
+2025;10;2;6.0;8.0;Chimie;TD;YUAN Sheng;G2.1
+2026;4;22;12.0;14.0;Physique;TP;VERDIER Jacques;LP1.2
+2025;9;24;12.0;14.0;Physique;TD;POULOS Markos;G2.1
+2025;11;3;14.0;15.0;ISN;CM;MERVEILLE Odyssee;Amphi Turing
+2026;2;5;7.0;9.0;Chimie;TD;YUAN Sheng;C02
+2026;3;18;13.0;15.0;Physique;TP;VERDIER Jacques;LP1.1
+2026;1;12;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;2;4;15.0;17.0;ETRE;TD;ZANOTA Marie-Line;C04
+2026;6;5;12.0;14.0;OMNI;TD;MORTHOMAS Julien;C11
+2025;11;4;10.0;11.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2025;10;23;8.0;10.0;Connaissance de l'entreprise;TD;WERNER Adele;
+2025;9;15;14.0;15.5;Mathématiques;TD;HEIBIG Arnaud;B11
+2026;3;17;16.0;17.0;Soutien;;;
+2026;2;2;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2025;11;5;8.0;9.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2026;1;21;13.0;17.0;Physique;TP;POULOS Markos;
+2026;2;3;7.0;9.0;EPS;TD;COSTES Laurent;
+2026;3;4;7.0;10.0;Chimie;TP;YUAN Sheng;
+2026;5;28;6.0;8.0;Chimie;TD;YUAN Sheng;C02
+2026;6;1;12.0;13.0;Physique;CM;CHANTRENNE Patrice;Amphi Turing
+2025;12;10;15.0;16.0;Physique;TD;POULOS Markos;G2.1
+2025;10;24;6.0;7.0;Soutien;;;
+2026;3;16;13.0;15.0;Physique;TD;LAGARDE Alain;B09
+2025;10;21;9.0;10.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;5;26;6.0;8.0;EPS;TD;COSTES Laurent;
+2026;3;4;15.0;17.0;ETRE;TD;ZANOTA Marie-Line;C04
+2026;3;31;15.0;16.0;Soutien;;;
+2026;5;12;15.0;16.0;Soutien;;;
+2025;10;8;12.0;14.0;Physique;TP;POULOS Markos;LP1.5
+2026;5;21;6.0;8.0;Chimie;TD;YUAN Sheng;C02
+2025;11;18;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Hamilton
+2025;12;19;15.0;16.5;Physique;EV;;
+2025;10;14;15.0;16.0;Soutien;;;
+2026;3;31;14.0;15.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2025;10;22;7.0;8.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2025;10;21;12.0;14.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2026;6;3;6.0;10.0;Chimie;TP;YUAN Sheng;
+2025;9;26;8.0;9.5;Physique;TD;POULOS Markos;C05
+2025;10;10;8.0;10.0;Anglais;TD;MYOT Francois;E2.2
+2025;11;24;13.0;14.0;SOL;TD;VEILLET Francois;D3 Netscape
+2026;3;17;13.5;15.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2025;11;18;16.0;17.0;Soutien;;;
+2026;3;20;7.0;8.0;Soutien;;;
+2026;1;12;7.0;9.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2026;2;11;13.0;15.0;Physique;TP;VERDIER Jacques;LP1.1
+2025;12;11;9.0;11.0;CSS;TD;LANHER Simon;E1.5
+2025;9;19;9.0;10.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2026;1;5;13.0;14.0;SOL;TD;VEILLET Francois;D3 Netscape
+2026;3;13;13.0;15.0;OMNI;TD;MORTHOMAS Julien;C11
+2025;10;6;6.0;8.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2025;9;22;13.0;14.0;ISN;CM;MERVEILLE Odyssee;Amphi Turing
+2025;11;13;7.0;9.0;Chimie;TD;YUAN Sheng;G2.1
+2025;12;5;15.0;17.0;Mathématiques;EV;;
+2026;2;25;13.0;15.0;Physique;TP;VERDIER Jacques;LP1.1
+2025;10;3;12.0;13.5;Physique;TD;POULOS Markos;C11
+2025;12;17;7.0;8.0;Chimie;CM;DA SILVA Pedro;Amphi Turing
+2026;2;26;7.0;9.0;Chimie;TD;YUAN Sheng;C02
+2025;12;3;9.0;11.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;12;2;10.0;11.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;6;1;13.0;14.0;Physique;TD;LAGARDE Alain;B09
+2026;1;27;9.0;10.5;ISN;EV;;
+2026;2;11;15.0;17.0;ETRE;TD;ZANOTA Marie-Line;C04
+2025;11;17;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;1;8;7.0;9.0;Chimie;TD;YUAN Sheng;G2.1
+2026;2;27;7.0;8.0;Soutien;;;
+2025;10;15;8.0;10.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;12;9;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Hamilton
+2026;6;18;7.0;10.0;Physique;EV;;
+2026;6;12;7.0;9.0;OMNI;EV;;
+2025;11;3;15.0;16.5;Mathématiques;TD;HEIBIG Arnaud;B11
+2026;6;4;6.0;8.0;Chimie;TD;YUAN Sheng;C02
+2026;3;2;7.0;9.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;9;26;6.0;7.0;Soutien;;;
+2025;12;12;8.0;9.0;OMNI;CM;RISLER Emmanuel;Amphi Vannier
+2025;9;15;12.0;13.0;SOL;TD;VEILLET Francois;D3 Netscape
+2025;9;23;8.0;9.0;Physique;CM;CHANTRENNE Patrice;Amphi Hamilton
+2025;11;7;7.0;8.0;Soutien;;;
+2026;3;23;15.0;17.0;Mathématiques;TD;ES SAI Azeddine;B09
+2026;1;15;9.0;11.0;OMNI;TD;MORTHOMAS Julien;C02
+2026;6;15;7.0;8.5;ISN;EV;;
+2026;5;13;12.0;14.0;OMNI;TD;MORTHOMAS Julien;C11
+2026;1;6;7.0;9.0;EPS;TD;COSTES Laurent;
+2025;11;19;13.0;16.0;Physique;TD;POULOS Markos;G2.1
+2025;11;19;9.0;11.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;11;24;7.0;9.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2026;1;7;13.0;15.0;Physique;TP;POULOS Markos;LP1.5
+2026;2;9;7.0;9.0;ISN;TD;DELANOY Johanna;D3 Netscape
+2026;4;28;14.0;15.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2026;4;2;6.0;8.0;Chimie;TD;YUAN Sheng;C02
+2025;12;16;13.0;15.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2026;5;11;12.0;14.0;Physique;TD;LAGARDE Alain;B09
+2026;3;24;16.0;17.0;Soutien;;;
+2025;9;16;14.0;15.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2026;3;23;13.0;15.0;Physique;TD;LAGARDE Alain;B09
+2026;5;6;9.0;10.0;ISN;CM;MERVEILLE Odyssee;Amphi Godet
+2026;2;6;7.0;8.0;Soutien;;;
+2025;10;14;6.0;8.0;EPS;TD;COSTES Laurent;
+2026;3;27;13.0;15.0;OMNI;TD;MORTHOMAS Julien;C11
+2025;11;27;9.0;11.0;CSS;TD;LANHER Simon;E1.5
+2026;3;3;13.5;15.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2025;11;24;14.0;15.0;ISN;CM;BOUMENDIL Anais;Amphi Vannier
+2025;11;25;16.0;17.0;Soutien;;;
+2025;11;21;15.0;16.0;Conception;EV;;
+2025;11;12;9.0;11.0;ISN;TD;DELANOY Johanna;D3 Netscape
+2025;11;21;8.0;9.0;OMNI;CM;RISLER Emmanuel;Amphi Vannier
+2025;9;23;15.0;16.0;Soutien;;;
+2026;3;30;13.0;14.0;Physique;TD;LAGARDE Alain;B09
+2026;3;12;9.0;11.0;Connaissance de l'entreprise;TD;LEFEVRE Anne;E1.5
+2026;5;20;6.0;8.5;Chimie;TP;YUAN Sheng;
+2026;3;12;7.0;9.0;Chimie;TD;YUAN Sheng;C02
+2026;6;2;14.0;15.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2025;9;15;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2025;11;25;10.0;11.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;3;10;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2025;11;14;15.0;16.5;OMNI;EV;;
+2026;3;24;15.0;16.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2026;1;16;13.0;14.5;Physique;TD;POULOS Markos;C11
+2025;9;18;6.0;8.0;Chimie;TD;YUAN Sheng;G2.1
+2026;1;20;16.0;17.0;Soutien;;;
+2025;12;9;13.0;15.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2026;5;26;14.0;15.0;Mathématiques;TD;ES SAI Azeddine;G0.1
+2025;11;28;7.0;8.0;Soutien;;;
+2025;11;7;13.0;14.5;Physique;TD;POULOS Markos;C11
+2026;4;1;14.0;16.0;ETRE;TD;ZANOTA Marie-Line;C04
+2025;12;16;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Hamilton
+2026;1;5;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2025;12;1;13.0;14.0;SOL;TD;VEILLET Francois;D3 Netscape
+2025;12;9;10.0;11.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2025;11;10;15.0;16.5;Mathématiques;TD;HEIBIG Arnaud;B11
+2025;12;1;14.0;15.5;Mathématiques;TD;HEIBIG Arnaud;C05
+2026;3;4;13.0;15.0;Physique;TD;LAGARDE Alain;C05
+2025;9;19;8.0;9.0;Physique;CM;CHANTRENNE Patrice;Amphi Godet
+2025;11;14;7.0;8.0;Soutien;;;
+2026;3;16;15.0;17.0;Mathématiques;TD;ES SAI Azeddine;B09
+2026;1;14;13.0;15.5;Physique;TD;POULOS Markos;G2.1
+2025;11;26;8.0;9.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2025;10;21;15.0;16.0;Soutien;;;
+2025;11;26;9.0;11.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2026;3;17;15.0;16.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2026;1;9;13.0;14.5;Physique;TD;POULOS Markos;C11
+2025;12;1;7.0;9.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2026;5;27;14.0;16.0;ETRE;TD;ZANOTA Marie-Line;C04
+2026;5;12;8.0;9.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2026;2;9;15.0;17.0;Mathématiques;TD;ES SAI Azeddine;B09
+2025;11;13;9.0;11.0;CSS;TD;LANHER Simon;E1.5
+2025;10;24;12.0;13.5;Physique;TD;POULOS Markos;C11
+2026;2;13;13.0;15.0;OMNI;CM;RISLER Emmanuel;Amphi Coriolis
+2026;3;9;13.0;15.0;Physique;TD;LAGARDE Alain;B09
+2025;12;8;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;3;18;10.0;11.0;ISN;TD;DELANOY Johanna;C03
+2025;9;30;6.0;8.0;EPS;TD;COSTES Laurent;
+2026;4;21;8.0;9.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2026;2;10;16.0;17.0;Soutien;;;
+2025;12;2;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Hamilton
+2026;2;10;13.5;15.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;3;16;7.0;9.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2026;4;2;8.0;10.0;Connaissance de l'entreprise;TD;LEFEVRE Anne;E1.5
+2026;5;27;12.0;14.0;Physique;TP;VERDIER Jacques;
+2026;3;26;7.0;9.0;Chimie;TD;YUAN Sheng;C02
+2026;3;26;9.0;11.0;Connaissance de l'entreprise;TD;LEFEVRE Anne;E1.5
+2025;9;22;12.0;13.0;SOL;TD;VEILLET Francois;D3 Netscape
+2026;2;27;13.0;15.0;OMNI;TD;MORTHOMAS Julien;C11
+2025;12;9;16.0;17.0;Soutien;;;
+2026;6;1;14.0;16.0;Mathématiques;TD;ES SAI Azeddine;B09
+2025;12;2;13.0;15.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2025;12;8;7.0;9.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2025;12;15;13.0;14.0;SOL;CM;DELANOY Johanna;Amphi Coriolis
+2025;10;17;7.0;8.0;OMNI;CM;RISLER Emmanuel;Amphi Vannier
+2026;3;31;8.0;9.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2025;11;17;15.0;16.5;Mathématiques;TD;HEIBIG Arnaud;B11
+2026;1;5;14.0;15.5;Mathématiques;TD;HEIBIG Arnaud;C05
+2025;12;15;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;3;9;15.0;17.0;Mathématiques;TD;ES SAI Azeddine;B09
+2025;12;8;13.0;14.0;SOL;TD;VEILLET Francois;D3 Netscape
+2026;5;5;14.0;16.0;Mathématiques;EV;;
+2025;12;19;9.0;11.0;Anglais;TD;MYOT Francois;E2.2
+2025;11;19;8.0;9.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2025;12;17;8.0;9.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2026;2;24;7.0;9.0;EPS;TD;COSTES Laurent;
+2026;3;6;13.0;15.0;OMNI;TD;MORTHOMAS Julien;C11
+2025;12;5;9.0;11.0;Anglais;TD;MYOT Francois;E2.2
+2025;9;25;6.0;8.0;Chimie;TD;YUAN Sheng;G2.1
+2026;3;20;13.0;15.0;OMNI;CM;RISLER Emmanuel;Amphi Coriolis
+2025;10;7;6.0;8.0;EPS;TD;COSTES Laurent;
+2025;9;15;6.0;8.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2025;11;10;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;6;5;14.0;15.0;Chimie;EV;;
+2025;11;7;9.0;11.0;Anglais;TD;MYOT Francois;E2.2
+2025;10;22;8.0;10.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;11;20;9.0;11.0;CSS;TD;LANHER Simon;E1.5
+2026;5;19;14.0;15.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2026;1;16;15.0;17.0;OMNI;EV;;
+2026;5;13;6.0;7.0;Soutien;;;
+2026;3;24;7.0;9.0;EPS;TD;COSTES Laurent;
+2025;11;14;8.0;9.0;OMNI;CM;RISLER Emmanuel;Amphi Vannier
+2025;11;12;7.5;9.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2026;3;13;16.25;17.25;Mathématiques;EV;;
+2026;5;19;6.0;8.0;EPS;TD;COSTES Laurent;
+2025;10;22;14.0;15.0;Physique;TD;POULOS Markos;G2.1
+2025;12;10;13.0;15.0;Physique;TP;POULOS Markos;LP1.5
+2026;5;29;6.0;7.0;Soutien;;;
+2026;4;30;6.0;8.0;Chimie;TD;YUAN Sheng;C02
+2026;5;18;12.0;14.0;Physique;TD;LAGARDE Alain;B09
+2025;10;6;12.0;13.0;SOL;TD;VEILLET Francois;D3 Netscape
+2025;11;4;16.0;17.0;Soutien;;;
+2026;3;10;10.0;11.0;Chimie;CM;DA SILVA Pedro;Amphi Coriolis
+2025;9;19;7.0;8.0;OMNI;CM;RISLER Emmanuel;Amphi Vannier
+2025;12;1;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2025;11;21;13.0;14.5;Physique;TD;POULOS Markos;C11
+2026;3;2;13.0;14.0;Physique;CM;CHANTRENNE Patrice;Amphi Turing
+2025;11;3;7.0;9.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2026;4;23;8.0;10.0;Connaissance de l'entreprise;TD;LEFEVRE Anne;E1.5
+2025;9;30;9.0;10.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;4;23;6.0;8.0;Chimie;TD;YUAN Sheng;C02
+2026;5;7;8.0;10.0;Connaissance de l'entreprise;TD;LEFEVRE Anne;E1.5
+2025;11;28;15.0;16.0;ISN;EV;;
+2025;12;19;7.0;8.0;Soutien;;;
+2025;11;25;13.0;15.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2026;4;21;9.0;10.0;Chimie;CM;DA SILVA Pedro;Amphi Coriolis
+2026;3;10;15.0;16.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2026;5;12;14.0;15.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2026;2;24;16.0;17.0;Soutien;;;
+2026;4;3;15.25;16.25;Conception;EV;;
+2025;10;20;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;1;7;8.0;9.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2025;12;11;7.0;9.0;Chimie;TD;YUAN Sheng;G2.1
+2026;1;13;13.0;15.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2025;11;6;9.0;11.0;CSS;TD;LANHER Simon;E1.5
+2026;4;24;6.0;7.0;Soutien;;;
+2026;6;1;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;5;29;12.0;14.0;OMNI;TD;MORTHOMAS Julien;C11
+2025;10;7;8.0;9.0;Physique;CM;CHANTRENNE Patrice;Amphi Hamilton
+2026;3;24;10.0;11.0;Chimie;CM;DA SILVA Pedro;Amphi Coriolis
+2025;9;24;8.0;10.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2026;5;22;14.0;15.5;Physique;EV;;
+2025;11;3;9.0;11.0;Conception;TD;RICOTTI Yann;F1.3 CAO
+2026;3;3;15.0;16.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2025;11;14;13.0;14.5;Physique;TD;POULOS Markos;C11
+2026;3;2;15.0;17.0;Mathématiques;TD;ES SAI Azeddine;B09
+2026;6;2;6.0;8.0;EPS;TD;COSTES Laurent;
+2025;9;23;9.0;10.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2025;9;24;6.0;7.0;Chimie;CM;DA SILVA Pedro;Amphi Turing
+2025;9;16;9.0;10.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;5;22;6.0;7.0;Soutien;;;
+2026;1;26;8.0;11.0;Chimie;EV;;
+2025;9;16;12.0;13.0;OMNI;CM;RISLER Emmanuel;Amphi Vannier
+2025;10;15;7.0;8.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2026;3;30;6.0;8.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;12;8;14.0;15.0;ISN;CM;BOUMENDIL Anais;Amphi Turing
+2026;5;22;12.0;14.0;OMNI;TD;MORTHOMAS Julien;C11
+2026;3;20;15.0;16.5;Physique;EV;;
+2026;1;14;9.0;11.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2026;5;6;6.0;8.5;Chimie;TP;YUAN Sheng;
+2026;6;17;7.0;10.0;Mathématiques;EV;;
+2025;9;23;14.0;15.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2026;2;3;10.0;11.0;Chimie;CM;DA SILVA Pedro;Amphi Coriolis
+2025;9;29;12.0;13.0;SOL;TD;VEILLET Francois;D3 Netscape
+2026;3;3;10.0;11.0;Chimie;CM;DA SILVA Pedro;Amphi Coriolis
+2025;9;23;12.0;14.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2025;12;16;10.0;11.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;2;12;7.0;9.0;Chimie;TD;YUAN Sheng;C02
+2025;12;5;7.0;8.0;Soutien;;;
+2025;9;26;7.0;8.0;OMNI;CM;RISLER Emmanuel;Amphi Vannier
+2026;4;3;6.0;7.0;Soutien;;;
+2026;2;10;7.0;9.0;EPS;TD;COSTES Laurent;
+2026;5;6;14.0;16.0;ETRE;TD;ZANOTA Marie-Line;C04
+2026;3;31;9.0;10.0;Chimie;CM;DA SILVA Pedro;Amphi Coriolis
+2025;12;17;9.0;11.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2026;4;3;12.0;14.0;OMNI;TD;MORTHOMAS Julien;C11
+2025;11;10;7.0;9.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2026;4;27;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;5;18;14.0;16.0;Mathématiques;TD;ES SAI Azeddine;B09
+2026;1;13;7.0;9.0;EPS;TD;COSTES Laurent;
+2025;12;9;15.0;16.0;Chimie;CM;DA SILVA Pedro;Amphi Coriolis
+2026;3;3;16.0;17.0;Soutien;;;
+2025;12;3;8.0;9.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2025;11;10;13.25;13.75;SOL;TD;VEILLET Francois;D3 Netscape
+2025;10;17;14.0;15.0;Chimie;EV;;
+2026;5;4;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2025;10;13;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;5;18;6.0;8.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2026;3;25;13.0;15.0;Physique;TP;VERDIER Jacques;LP1.5
+2025;10;8;14.0;15.0;Physique;TD;POULOS Markos;G2.1
+2026;1;7;15.0;17.0;Physique;TD;POULOS Markos;G2.1
+2026;1;6;13.0;15.0;OMNI;TD;MORTHOMAS Julien;G2.2
+2025;10;1;7.0;8.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2026;3;30;12.0;13.0;Physique;CM;CHANTRENNE Patrice;Amphi Vannier
+2026;4;24;12.0;14.0;OMNI;TD;MORTHOMAS Julien;C11
+2025;11;17;14.0;15.0;SOL;CM;VEILLET Francois;Amphi Turing
+2025;12;4;7.0;9.0;Chimie;TD;YUAN Sheng;G2.1
+2026;2;3;13.5;15.0;Mathématiques;CM;MOULIN Sylvain;Amphi Hamilton
+2026;2;24;10.0;11.0;Chimie;CM;DA SILVA Pedro;Amphi Coriolis
+2026;5;4;12.0;14.0;Physique;TD;LAGARDE Alain;B09
+2025;10;24;8.0;10.0;Anglais;TD;MYOT Francois;E2.2
+2025;10;13;12.0;13.0;SOL;TD;VEILLET Francois;D3 Netscape
+2026;1;30;8.0;11.0;Physique;EV;;
+2025;10;8;8.0;10.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;10;15;14.0;15.0;Physique;TD;POULOS Markos;G2.1
+2025;11;28;8.0;9.0;OMNI;CM;RISLER Emmanuel;Amphi Vannier
+2025;9;17;6.0;7.0;Chimie;CM;DA SILVA Pedro;Amphi Turing
+2025;10;8;7.0;8.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2026;2;23;15.0;17.0;Mathématiques;TD;ES SAI Azeddine;B09
+2025;12;10;8.0;9.0;Mathématiques;CM;MOULIN Sylvain;Amphi Turing
+2026;4;20;13.0;14.0;Physique;TD;LAGARDE Alain;B09
+2025;12;5;8.0;9.0;OMNI;CM;RISLER Emmanuel;Amphi Vannier
+2026;4;20;6.0;8.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2026;2;10;10.0;11.0;Chimie;CM;DA SILVA Pedro;Amphi Coriolis
+2025;10;7;15.0;16.0;Soutien;;;
+2026;1;9;9.0;11.0;Anglais;TD;MYOT Francois;E2.2
+2026;3;24;9.0;10.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2026;4;29;6.0;9.0;Chimie;TP;YUAN Sheng;
+2026;3;5;7.0;9.0;Chimie;TD;YUAN Sheng;C02
+2026;3;17;10.0;11.0;Chimie;CM;DA SILVA Pedro;Amphi Coriolis
+2025;11;17;7.0;9.0;Mathématiques;TD;HEIBIG Arnaud;C10
+2026;4;1;12.0;14.0;Physique;TD;LAGARDE Alain;C05
+2026;5;18;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;2;2;13.0;14.0;Physique;CM;CHANTRENNE Patrice;Amphi Turing
+2025;12;12;9.0;11.0;Anglais;TD;MYOT Francois;E2.2
+2025;10;1;8.0;10.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;11;5;15.0;16.0;Physique;TD;POULOS Markos;G2.1
+2025;9;30;8.0;9.0;Physique;CM;CHANTRENNE Patrice;Amphi Hamilton
+2025;10;1;6.0;7.0;Chimie;CM;DA SILVA Pedro;Amphi Turing
+2026;4;22;6.0;9.0;Chimie;TP;YUAN Sheng;
+2025;9;18;8.0;10.0;Connaissance de l'entreprise;TD;CHATAIGNON Evelyne;
+2025;12;9;7.0;9.0;EPS;TD;COSTES Laurent;
+2026;2;24;15.0;16.0;Mathématiques;TD;ES SAI Azeddine;G0.3
+2026;5;19;15.0;16.0;Soutien;;;
+2026;5;11;8.0;10.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2025;11;5;9.0;11.0;ISN;TD;CHEUTET Vincent;D3 Netscape
+2025;11;27;7.0;9.0;Chimie;TD;YUAN Sheng;G2.1
+2026;5;26;8.0;9.0;Physique;CM;CHANTRENNE Patrice;Amphi Coriolis
+2025;10;8;6.0;7.0;Chimie;CM;DA SILVA Pedro;Amphi Turing
+2025;11;24;9.0;11.0;Conception;TD;BARJOUD Samer;F1.3 CAO
+2026;1;12;13.0;14.0;SOL;TD;VEILLET Francois;D3 Netscape
+2025;11;12;15.0;16.0;Physique;TD;POULOS Markos;G2.1
+2026;4;22;14.0;16.0;ETRE;TD;ZANOTA Marie-Line;C04
+2026;4;30;8.0;10.0;Connaissance de l'entreprise;TD;LEFEVRE Anne;E1.5
