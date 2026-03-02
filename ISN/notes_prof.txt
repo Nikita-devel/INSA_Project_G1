@@ -1,0 +1,10 @@
+Filtrer des données non triées est dangereux
+Passer semaine suivante/ précédentes ne sont pas des fonctions, devraient agir sur l'étape initiale 
+Charger les données AVANT, sinon pour les options comme "quitter", il n'y a aucune donnée
+
+Quitter: Dois nous amener à la toute dernière ligne. Booléen qui évolue.
+Quitter dois être demandé au choix des options.
+
+Pas besoin de return pour la liste triée. 
+Attention, on ne peut pas retourner 'none', car n'est pas une liste
+
