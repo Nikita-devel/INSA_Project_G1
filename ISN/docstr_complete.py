@@ -11,8 +11,7 @@ def ma_fonction_2(liste, colonne):
         - liste (list) : Liste d'événements brute extraite du fichier csv.
         - colonne (int) : Indice de la position de l'année dans chaque sous-liste.
 
-    Return :
-        - (list) : La liste triée prête pour un affichage séquentiel.
+   
     """
     pass
 
