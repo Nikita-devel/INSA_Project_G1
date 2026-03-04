@@ -21,6 +21,7 @@ def affichage_calendrier(calendrier, date_demandéee, année, mois): #Lina
         - le calendrier 
 
     """
+    
 
 ###Rôle :
 #Si une date_demandée est fournie :
