@@ -56,3 +56,7 @@ def trier_par_date(liste_cours):
                 liste_cours[j] = liste_cours[j + 1]
                 liste_cours[j + 1] = temp
     return liste_cours
+
+
+
+
