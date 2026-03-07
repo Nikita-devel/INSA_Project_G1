@@ -1,3 +1,25 @@
+"""
+DISCUSSION SUR LA COMPLEXITÉ ALGORITHMIQUE
+
+Soit N le nombre total d'événements dans le fichier CSV.
+
+1. Phase d'initialisation et de Tri : O(N^2)
+   - La fonction `trier_par_date` utilise l'algorithme du tri à bulles.
+     Celui-ci comporte deux boucles imbriquées parcourant la liste de taille N.
+     La complexité dans le pire des cas et en moyenne est donc quadratique : O(N^2).
+
+2. Opérations de parcours et d'affichage : O(N)
+   - Les fonctions `trouver_IE`, `affichage_calendrier`, `affichage_liste_evaluations`, 
+     et `calcul_statistiques_matiere` effectuent un parcours linéaire complet ou partiel.
+     Leur complexité est linéaire : O(N).
+
+3. Opérations de calcul de dates et de navigation : O(1)
+   - Les fonctions `quelle_semaine`, `naviguer_semaine`, et `quitter` effectuent des 
+     opérations arithmétiques. Leur temps d'exécution est constant : O(1).
+"""
+
+
+
 from calendrier import *
 
 def trier_par_date(liste_cours):
@@ -89,11 +111,14 @@ def naviguer_semaine(commande, date_pivot):
     Return :
         - (list) : La nouvelle date décalée de 7 jours.
     """
+    nouvelle_date = date_pivot 
+    
     if commande == 's' or commande == 'S':
-        return ajouter_jours(date_pivot, 7)
+        nouvelle_date = ajouter_jours(date_pivot, 7)
     elif commande == 'p' or commande == 'P':
-        return ajouter_jours(date_pivot, -7)
-    return date_pivot
+        nouvelle_date = ajouter_jours(date_pivot, -7)
+        
+    return nouvelle_date
 
 
 def trouver_IE(calendrier, date_actuelle): 
@@ -107,15 +132,22 @@ def trouver_IE(calendrier, date_actuelle):
     Return :
         - (list) : L'événement de l'évaluation la plus proche, ou None.
     """
+    ie_trouvee = None
+    trouve = False
+    i = 0
+    
     # Parcours séquentiel du calendrier pour trouver la première évaluation future
-    for i in range(len(calendrier)):
+    while i < len(calendrier) and trouve == False:
         ev = calendrier[i]
         date_ev = extraire_date_event(ev)
         
         if not est_avant(date_ev, date_actuelle):
             if "EV" in ev[6] or "Evaluation" in ev[6]:
-                return ev
-    return None
+                ie_trouvee = ev
+                trouve = True # Met fin à la boucle proprement
+        i = i + 1
+        
+    return ie_trouvee
 
 def affichage_pense_bete(calendrier): 
     """
