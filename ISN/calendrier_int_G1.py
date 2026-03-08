@@ -219,8 +219,8 @@ def calcul_statistiques_matiere(calendrier):
         prof = ev[7]
         
         # Calcul de la durée du cours
-        heure_deb = float(ev[3].replace(',', '.'))
-        heure_fin = float(ev[4].replace(',', '.'))
+        heure_deb = float(ev[3])
+        heure_fin = float(ev[4])
         duree = heure_fin - heure_deb
         
         # Initialisation du dictionnaire pour une nouvelle matière
