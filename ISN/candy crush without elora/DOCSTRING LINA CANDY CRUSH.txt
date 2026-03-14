@@ -1,0 +1,62 @@
+Fonction 1: afficher_grille 
+
+def afficher_grille(grille):
+    """
+    Affiche la grille de jeu dans la console.
+
+    Parametres:
+        grille : list[list[int]]
+            Liste 2D representant la grille du jeu.
+            (Chaque case contient un entier representant la couleur d'un bonbon)
+
+    Sortie:
+        Affichage de la grille dans la console
+    """
+
+
+Fonction 2: validation_grille 
+
+def validation_grille(grille):
+    """
+    Verifie si la grille de jeu est valide.
+
+    Parametres:
+        grille : list[list[int]]
+
+    Sortie:
+        booleen : True si la grille est valide, False sinon.
+    """
+
+
+
+
+Fonction 3: creer_grille 
+
+def creer_grille(nom_fichier_csv):
+    """
+    Cree une grille de jeu a partir d'un fichier CSV.
+
+    Parametres:
+        nom_fichier_csv : str (Nom du fichier csv contenant la grille
+
+
+    Sortie:
+        list[list[int]] : Une liste 2D d'entiers correspondant a la grille du jeu.
+    """
+
+
+Fonction 4: verif_score_max 
+
+def verif_score_max(score, score_max):
+    """
+    Verifie si le score actuel depasse le score maximum.
+
+    Parametres:
+        score : int
+            Score actuel du joueur
+        score_max : int
+            Score maximum enregistre
+
+    Sortie:
+        int : Le score maximum mis a jour. Si le score actuel est superieur, il devient le nouveau score maximum.
+    """
