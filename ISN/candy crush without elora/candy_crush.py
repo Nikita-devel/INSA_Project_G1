@@ -134,9 +134,9 @@ def verif_score_max(score, score_max):
     """
     pass
 
-# =============================================================================
+
 # PARTIE NIKITA : Moteur logique, détection et physique (Niveau 2)
-# =============================================================================
+
 
 def sont_voisins(coo_1, coo_2):
     """
