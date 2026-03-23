@@ -2,7 +2,7 @@ from logique import *
 from interface import *
 
 def main():
-    points_max = 100
+    points_max = 1000
     score = 0
     en_cours = True
     
