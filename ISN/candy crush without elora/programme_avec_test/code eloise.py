@@ -40,6 +40,24 @@ def detruire_cases(grille, liste):
         return grille
     
 def echange_les_cases(grille, coo_1, coo_2):
+    """
+    
+
+    Parameters
+    ----------
+    grille : liste de liste
+        grille de jeu à modifier
+    coo_1 : tuple
+        coordonnées du premier bonbons à échanger
+    coo_2 : tuple
+        coordonnées du deuxieme bonbon à échanger
+
+    Returns
+    -------
+    grille : liste de liste
+        grille du jeu une fois modifer (les bonbons ont changés de place)
+
+    """
     x_1, y_1 = coo_1
     x_2, y_2 = coo_2
     temp = grille[x_1][y_1] 
