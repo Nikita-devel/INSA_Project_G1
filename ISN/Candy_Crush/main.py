@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Fichier : main.py
 Orchestre la boucle de jeu de Candy Crush.
@@ -11,12 +10,13 @@ def candy_crush(nb_lignes=5, nb_colonnes=5, nb_couleurs=4, score_max=150):
     afficher_regles()
     score = 0
 
-    # 1. Création garantie SANS combinaison initiale (Critère du barème)
+    # 1. Création garantie SANS combinaison initiale 
     grille = creer_grille_aleatoire(nb_lignes, nb_colonnes, nb_couleurs)
     while validation_grille(grille) == False:
         grille = creer_grille_aleatoire(nb_lignes, nb_colonnes, nb_couleurs)
 
-    afficher_grille(grille)
+    # NOUVEAU : On passe nb_couleurs à la fonction d'affichage
+    afficher_grille(grille, nb_couleurs)
 
     # 2. Boucle principale du jeu
     while verif_score_max(score, score_max) == False:
@@ -34,7 +34,7 @@ def candy_crush(nb_lignes=5, nb_colonnes=5, nb_couleurs=4, score_max=150):
             
             # On simule l'échange
             grille = echange_les_cases(grille, coo_1, coo_2)
-            afficher_grille(grille)
+            afficher_grille(grille, nb_couleurs)
 
             if trois_alignes(grille) == True:
                 
@@ -48,12 +48,12 @@ def candy_crush(nb_lignes=5, nb_colonnes=5, nb_couleurs=4, score_max=150):
                     grille = detruire_cases(grille, cases)
                     score += len(cases) * 10 
                     
-                    print("\nBOOM ! Bonbons détruits :")
-                    afficher_grille(grille)
+                    print("\nBOOM ! Bonbons détruits.")
+                    afficher_grille(grille, nb_couleurs)
                     
                     grille = generer_cases(grille, nb_couleurs)
-                    print("\nNouveaux bonbons (Gravité) :")
-                    afficher_grille(grille)
+                    print("\nNouveaux bonbons (Gravité).")
+                    afficher_grille(grille, nb_couleurs)
                     afficher_compteur(score)
                     
                     # Arrêt de la réaction en chaîne s'il n'y a plus de combinaison
@@ -62,6 +62,7 @@ def candy_crush(nb_lignes=5, nb_colonnes=5, nb_couleurs=4, score_max=150):
             else:
                 print("\nPas d'alignement -> échange annulé")
                 grille = echange_les_cases(grille, coo_1, coo_2)
+                afficher_grille(grille, nb_couleurs) # On réaffiche la grille après annulation
         else:
             print("\nLes cases ne sont pas voisines !")
 
