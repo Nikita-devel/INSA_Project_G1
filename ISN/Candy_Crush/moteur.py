@@ -30,6 +30,50 @@ def creer_grille_aleatoire(nb_lignes, nb_colonnes, nb_couleurs):
         grille.append(ligne)
     return grille 
 
+def creer_grille_csv(nom_fichier):
+    """
+    Cree une grille de jeu a partir d'un fichier texte/CSV.
+    Lit le fichier caractere par caractere.
+    
+    Paramètres:
+        nom_fichier : str (Nom du fichier a lire)
+        
+    Sortie:
+        list[list[int]] : La grille 2D prete pour le jeu.
+    """
+    grille = []
+    fichier = open(nom_fichier, "r")
+    lignes = fichier.readlines()
+    fichier.close() 
+    
+    for i in range(len(lignes)):
+        ligne_texte = lignes[i]
+        ligne_entiers = []
+        nombre_actuel = ""
+        
+        # Parcours de chaque caractere de la ligne
+        for j in range(len(ligne_texte)):
+            caractere = ligne_texte[j]
+            
+            # Si le caractere n'est ni un espace, ni un saut de ligne
+            if caractere != ' ' and caractere != '\n' and caractere != '\r':
+                nombre_actuel = nombre_actuel + caractere
+            else:
+                # Si on a fini de lire un nombre, on l'ajoute a la liste
+                if nombre_actuel != "":
+                    ligne_entiers.append(int(nombre_actuel))
+                    nombre_actuel = ""
+                    
+        # Pour le dernier nombre de la ligne (s'il n'y a pas d'espace a la fin)
+        if nombre_actuel != "":
+            ligne_entiers.append(int(nombre_actuel))
+            
+        # Si la ligne n'etait pas vide, on l'ajoute a la grille
+        if len(ligne_entiers) > 0:
+            grille.append(ligne_entiers)
+            
+    return grille
+
 def validation_grille(grille):
     """
     Verifie si la grille de jeu est valide (ne contient pas de combinaison initiale).
@@ -60,7 +104,6 @@ def verif_score_max(score, score_max):
         False sinon (le joueur continue a jouer).
     """
     if score >= score_max:
-        print("\nScore maximum atteint ! Fin du jeu.")
         return True
     else:
         return False 
@@ -218,6 +261,35 @@ def ya_voisin(grille, cases_alignees):
         i += 1
 
     return selection_finale
+
+def echange_possible(grille):
+    """
+    Vérifie s'il reste au moins un échange valide sur la grille.
+    Permet d'arrêter le jeu si le joueur est bloqué.
+    """
+    lignes = len(grille)
+    colonnes = len(grille[0])
+    possible = False
+    
+    i = 0
+    while i < lignes and possible == False:
+        j = 0
+        while j < colonnes and possible == False:
+            if j + 1 < colonnes:
+                grille = echange_les_cases(grille, [i, j], [i, j+1])
+                if trois_alignes(grille) == True:
+                    possible = True
+                grille = echange_les_cases(grille, [i, j], [i, j+1]) 
+            
+            if i + 1 < lignes and possible == False:
+                grille = echange_les_cases(grille, [i, j], [i+1, j])
+                if trois_alignes(grille) == True:
+                    possible = True
+                grille = echange_les_cases(grille, [i, j], [i+1, j]) 
+            j += 1
+        i += 1
+        
+    return possible
 
 # ACTIONS SUR LA GRILLE
 
